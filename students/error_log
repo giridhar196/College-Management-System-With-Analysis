@@ -1,0 +1,252 @@
+[20-Mar-2018 21:26:03 UTC] PHP Notice:  Undefined variable: time in /home/cmsproject/public_html/students/post_message_ajax.php on line 21
+[20-Mar-2018 21:26:09 UTC] PHP Notice:  Undefined variable: time in /home/cmsproject/public_html/students/post_message_ajax.php on line 21
+[21-Mar-2018 01:28:02 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[21-Mar-2018 01:28:02 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[21-Mar-2018 01:28:03 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[21-Mar-2018 01:28:03 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[21-Mar-2018 01:28:06 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[21-Mar-2018 01:28:06 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[21-Mar-2018 01:28:15 UTC] PHP Notice:  Undefined index: re in /home/cmsproject/public_html/students/view_notification.php on line 5
+[21-Mar-2018 01:28:43 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[21-Mar-2018 01:28:43 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[21-Mar-2018 01:28:48 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[21-Mar-2018 01:28:48 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[21-Mar-2018 01:28:55 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[21-Mar-2018 01:28:55 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[21-Mar-2018 01:29:25 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[21-Mar-2018 01:29:25 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[21-Mar-2018 01:29:43 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[21-Mar-2018 01:29:44 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[21-Mar-2018 01:29:48 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[21-Mar-2018 01:29:48 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[21-Mar-2018 03:43:28 UTC] PHP Notice:  Undefined variable: conversation_id in /home/cmsproject/public_html/students/message.php on line 128
+[21-Mar-2018 07:41:30 UTC] PHP Warning:  Illegal string offset 'first_name' in /home/cmsproject/public_html/students/blog_new.php on line 17
+[21-Mar-2018 07:41:30 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/cmsproject/public_html/students/blog_new.php on line 17
+[21-Mar-2018 07:41:30 UTC] PHP Notice:  Undefined variable: b in /home/cmsproject/public_html/students/blog_new.php on line 91
+[21-Mar-2018 07:41:30 UTC] PHP Notice:  Undefined variable: b in /home/cmsproject/public_html/students/blog_new.php on line 92
+[21-Mar-2018 07:41:30 UTC] PHP Warning:  Illegal string offset 'oauth_uid' in /home/cmsproject/public_html/students/blog_my.php on line 6
+[21-Mar-2018 07:41:30 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/cmsproject/public_html/students/blog_my.php on line 6
+[21-Mar-2018 07:41:30 UTC] PHP Warning:  Illegal string offset 'oauth_uid' in /home/cmsproject/public_html/students/blog_my.php on line 15
+[21-Mar-2018 07:41:30 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/cmsproject/public_html/students/blog_my.php on line 15
+[22-Mar-2018 07:51:27 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[22-Mar-2018 07:51:28 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[22-Mar-2018 07:54:09 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[22-Mar-2018 07:54:09 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[23-Mar-2018 05:01:04 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[23-Mar-2018 05:01:05 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[23-Mar-2018 05:01:13 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[23-Mar-2018 05:01:21 UTC] PHP Notice:  Undefined index: re in /home/cmsproject/public_html/students/view_notification.php on line 5
+[23-Mar-2018 05:01:28 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:37:05 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:37:05 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:37:06 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:37:06 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:37:10 UTC] PHP Notice:  Undefined index: re in /home/cmsproject/public_html/students/view_notification.php on line 5
+[24-Mar-2018 16:37:19 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:37:19 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:37:35 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:37:35 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:37:37 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:37:37 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:37:39 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:37:39 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:37:46 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:37:46 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:37:57 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:37:57 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:38:04 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:38:04 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:38:07 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:38:07 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:38:12 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:38:12 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:38:19 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:38:19 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:38:21 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:38:21 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:38:21 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:38:21 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:38:25 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:38:25 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:38:48 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:38:48 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:38:48 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:38:48 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:38:53 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:38:53 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:38:55 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:38:55 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:38:57 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:38:57 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:39:01 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:39:01 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:39:02 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:39:02 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:39:10 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:39:10 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:39:14 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:39:14 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:39:18 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:39:18 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:39:18 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:39:18 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:39:26 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:39:26 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:39:28 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:39:28 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[24-Mar-2018 16:39:28 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[24-Mar-2018 16:39:28 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[26-Mar-2018 18:47:00 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[26-Mar-2018 18:47:00 UTC] PHP Notice:  Undefined variable: t_m in /home/cmsproject/public_html/students/faq.php on line 24
+[26-Mar-2018 18:47:11 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[26-Mar-2018 18:47:11 UTC] PHP Notice:  Undefined variable: t_m in /home/cmsproject/public_html/students/faq.php on line 24
+[30-Mar-2018 03:11:26 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[30-Mar-2018 03:11:26 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[30-Mar-2018 03:11:26 UTC] PHP Notice:  Undefined variable: t_m in /home/cmsproject/public_html/students/faq.php on line 24
+[30-Mar-2018 03:11:31 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[30-Mar-2018 03:11:31 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[30-Mar-2018 03:11:31 UTC] PHP Notice:  Undefined variable: t_m in /home/cmsproject/public_html/students/faq.php on line 24
+[30-Mar-2018 03:11:47 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[30-Mar-2018 03:11:47 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[30-Mar-2018 03:11:47 UTC] PHP Notice:  Undefined variable: t_m in /home/cmsproject/public_html/students/faq.php on line 24
+[30-Mar-2018 03:12:15 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[30-Mar-2018 03:12:15 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[30-Mar-2018 03:12:15 UTC] PHP Notice:  Undefined variable: t_m in /home/cmsproject/public_html/students/faq.php on line 24
+[30-Mar-2018 03:12:21 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[30-Mar-2018 03:12:21 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[30-Mar-2018 03:12:21 UTC] PHP Notice:  Undefined variable: t_m in /home/cmsproject/public_html/students/faq.php on line 24
+[30-Mar-2018 03:12:31 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[30-Mar-2018 03:12:31 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[30-Mar-2018 03:12:31 UTC] PHP Notice:  Undefined variable: t_m in /home/cmsproject/public_html/students/faq.php on line 24
+[30-Mar-2018 03:12:38 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[30-Mar-2018 03:12:38 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[30-Mar-2018 03:12:38 UTC] PHP Notice:  Undefined variable: t_m in /home/cmsproject/public_html/students/faq.php on line 24
+[30-Mar-2018 03:12:51 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[30-Mar-2018 03:12:51 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[30-Mar-2018 03:12:51 UTC] PHP Notice:  Undefined variable: t_m in /home/cmsproject/public_html/students/faq.php on line 24
+[30-Mar-2018 03:13:02 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[30-Mar-2018 03:13:03 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[30-Mar-2018 03:13:14 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[30-Mar-2018 03:13:50 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[30-Mar-2018 03:14:57 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[30-Mar-2018 03:15:01 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[30-Mar-2018 03:15:26 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[30-Mar-2018 03:15:33 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[30-Mar-2018 03:15:57 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[30-Mar-2018 03:16:35 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[30-Mar-2018 03:17:15 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[30-Mar-2018 03:17:20 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[30-Mar-2018 04:41:05 UTC] PHP Warning:  Illegal string offset 'first_name' in /home/cmsproject/public_html/students/product_edit.php on line 102
+[30-Mar-2018 04:41:05 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/cmsproject/public_html/students/product_edit.php on line 102
+[30-Mar-2018 04:41:05 UTC] PHP Warning:  Illegal string offset 'first_name' in /home/cmsproject/public_html/students/product_edit.php on line 119
+[30-Mar-2018 04:41:05 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/cmsproject/public_html/students/product_edit.php on line 119
+[30-Mar-2018 08:32:39 UTC] PHP Warning:  Illegal string offset 'oauth_uid' in /home/cmsproject/public_html/students/product.php on line 6
+[30-Mar-2018 08:32:39 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/cmsproject/public_html/students/product.php on line 6
+[30-Mar-2018 08:32:39 UTC] PHP Warning:  Illegal string offset 'oauth_uid' in /home/cmsproject/public_html/students/product.php on line 15
+[30-Mar-2018 08:32:39 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/cmsproject/public_html/students/product.php on line 15
+[05-Apr-2018 20:50:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/cmsproject/public_html/students/chat.php on line 261
+[05-Apr-2018 20:50:49 UTC] PHP Notice:  Undefined variable: subj in /home/cmsproject/public_html/students/chat.php on line 281
+[05-Apr-2018 20:50:49 UTC] PHP Notice:  Undefined variable: subj in /home/cmsproject/public_html/students/chat.php on line 281
+[05-Apr-2018 20:50:49 UTC] PHP Notice:  Undefined variable: subj in /home/cmsproject/public_html/students/chat.php on line 281
+[07-Apr-2018 03:17:35 UTC] PHP Notice:  Undefined variable: time in /home/cmsproject/public_html/students/post_message_ajax.php on line 21
+[07-Apr-2018 03:17:49 UTC] PHP Notice:  Undefined variable: time in /home/cmsproject/public_html/students/post_message_ajax.php on line 21
+[07-Apr-2018 03:30:02 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[07-Apr-2018 03:30:03 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[07-Apr-2018 03:31:50 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[07-Apr-2018 03:31:52 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[07-Apr-2018 07:05:55 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[07-Apr-2018 07:05:55 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[07-Apr-2018 07:05:56 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[07-Apr-2018 07:05:56 UTC] PHP Notice:  Undefined index: link in /home/cmsproject/public_html/students/auth.php on line 33
+[07-Apr-2018 07:15:37 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/cmsproject/public_html/students/auth.php on line 66
+[07-Apr-2018 07:15:37 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/cmsproject/public_html/students/auth.php on line 66
+[07-Apr-2018 07:15:38 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/cmsproject/public_html/students/auth.php on line 66
+[07-Apr-2018 07:15:38 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/cmsproject/public_html/students/auth.php on line 66
+[07-Apr-2018 07:15:43 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/cmsproject/public_html/students/auth.php on line 66
+[07-Apr-2018 07:16:11 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/cmsproject/public_html/students/auth.php on line 66
+[07-Apr-2018 07:33:28 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/cmsproject/public_html/students/auth.php on line 66
+[07-Apr-2018 07:33:28 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/cmsproject/public_html/students/auth.php on line 66
+[07-Apr-2018 07:33:29 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/cmsproject/public_html/students/auth.php on line 66
+[07-Apr-2018 07:33:29 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/cmsproject/public_html/students/auth.php on line 66
+[07-Apr-2018 07:33:35 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/cmsproject/public_html/students/auth.php on line 66
+[07-Apr-2018 07:34:05 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/cmsproject/public_html/students/auth.php on line 66
+[09-Apr-2018 06:52:41 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[09-Apr-2018 06:52:42 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[09-Apr-2018 06:54:06 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[09-Apr-2018 06:54:07 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[09-Apr-2018 06:54:13 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[09-Apr-2018 06:55:32 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[09-Apr-2018 06:55:43 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[09-Apr-2018 06:55:47 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[09-Apr-2018 06:56:00 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[09-Apr-2018 06:56:01 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[09-Apr-2018 06:56:02 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[09-Apr-2018 06:56:03 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[09-Apr-2018 06:56:04 UTC] PHP Notice:  Undefined index: gender in /home/cmsproject/public_html/students/auth.php on line 30
+[10-Apr-2018 11:54:23 UTC] PHP Notice:  Undefined variable: conversation_id in /home/cmsproject/public_html/students/message.php on line 128
+[17-Apr-2018 04:28:13 UTC] PHP Notice:  Undefined variable: time in /home/cmsproject/public_html/students/post_message_ajax.php on line 21
+[18-Apr-2018 01:11:03 UTC] PHP Warning:  Illegal string offset 'first_name' in /home/cmsproject/public_html/students/product_edit.php on line 102
+[18-Apr-2018 01:11:03 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/cmsproject/public_html/students/product_edit.php on line 102
+[18-Apr-2018 01:11:03 UTC] PHP Warning:  Illegal string offset 'first_name' in /home/cmsproject/public_html/students/product_edit.php on line 119
+[18-Apr-2018 01:11:03 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/cmsproject/public_html/students/product_edit.php on line 119
+[18-Apr-2018 01:17:16 UTC] PHP Warning:  Illegal string offset 'oauth_uid' in /home/cmsproject/public_html/students/product.php on line 6
+[18-Apr-2018 01:17:16 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/cmsproject/public_html/students/product.php on line 6
+[18-Apr-2018 01:17:16 UTC] PHP Warning:  Illegal string offset 'oauth_uid' in /home/cmsproject/public_html/students/product.php on line 15
+[18-Apr-2018 01:17:16 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/cmsproject/public_html/students/product.php on line 15
+[18-Apr-2018 01:19:17 UTC] PHP Notice:  Undefined variable: t_m in /home/cmsproject/public_html/students/faq.php on line 24
+[18-Apr-2018 01:19:17 UTC] PHP Warning:  Illegal string offset 'first_name' in /home/cmsproject/public_html/students/faq.php on line 268
+[18-Apr-2018 01:19:17 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/cmsproject/public_html/students/faq.php on line 268
+[18-Apr-2018 01:19:17 UTC] PHP Warning:  Illegal string offset 'last_name' in /home/cmsproject/public_html/students/faq.php on line 275
+[18-Apr-2018 01:19:17 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/cmsproject/public_html/students/faq.php on line 275
+[18-Apr-2018 01:19:17 UTC] PHP Warning:  Illegal string offset 'email' in /home/cmsproject/public_html/students/faq.php on line 282
+[18-Apr-2018 01:19:17 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/cmsproject/public_html/students/faq.php on line 282
+[18-Apr-2018 01:23:04 UTC] PHP Notice:  Undefined variable: p_name in /home/cmsproject/public_html/students/view_product.php on line 78
+[18-Apr-2018 01:23:04 UTC] PHP Notice:  Undefined variable: se_name in /home/cmsproject/public_html/students/view_product.php on line 80
+[18-Apr-2018 01:23:04 UTC] PHP Notice:  Undefined variable: p_name in /home/cmsproject/public_html/students/view_product.php on line 100
+[18-Apr-2018 01:23:04 UTC] PHP Notice:  Undefined variable: rg in /home/cmsproject/public_html/students/view_product.php on line 106
+[18-Apr-2018 01:23:04 UTC] PHP Notice:  Undefined variable: p_cost in /home/cmsproject/public_html/students/view_product.php on line 112
+[18-Apr-2018 01:23:04 UTC] PHP Notice:  Undefined variable: p_cat in /home/cmsproject/public_html/students/view_product.php on line 118
+[18-Apr-2018 01:23:04 UTC] PHP Notice:  Undefined variable: p_sem in /home/cmsproject/public_html/students/view_product.php on line 124
+[18-Apr-2018 01:23:04 UTC] PHP Notice:  Undefined variable: p_des in /home/cmsproject/public_html/students/view_product.php on line 136
+[18-Apr-2018 01:23:04 UTC] PHP Notice:  Undefined variable: p_sdesc in /home/cmsproject/public_html/students/view_product.php on line 140
+[18-Apr-2018 01:27:20 UTC] PHP Notice:  Undefined variable: B_R_A_N_C_H in /home/cmsproject/public_html/students/product_online.php on line 9
+[18-Apr-2018 01:27:20 UTC] PHP Notice:  Undefined variable: B_R_A_N_C_H in /home/cmsproject/public_html/students/product_online.php on line 19
+[18-Apr-2018 01:34:00 UTC] PHP Warning:  Illegal string offset 'first_name' in /home/cmsproject/public_html/students/blog_new.php on line 17
+[18-Apr-2018 01:34:00 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/cmsproject/public_html/students/blog_new.php on line 17
+[18-Apr-2018 01:34:00 UTC] PHP Notice:  Undefined variable: b in /home/cmsproject/public_html/students/blog_new.php on line 91
+[18-Apr-2018 01:34:00 UTC] PHP Notice:  Undefined variable: b in /home/cmsproject/public_html/students/blog_new.php on line 92
+[18-Apr-2018 01:40:09 UTC] PHP Notice:  Undefined variable: p_name in /home/cmsproject/public_html/students/view_product.php on line 78
+[18-Apr-2018 01:40:09 UTC] PHP Notice:  Undefined variable: se_name in /home/cmsproject/public_html/students/view_product.php on line 80
+[18-Apr-2018 01:40:09 UTC] PHP Notice:  Undefined variable: p_name in /home/cmsproject/public_html/students/view_product.php on line 100
+[18-Apr-2018 01:40:09 UTC] PHP Notice:  Undefined variable: rg in /home/cmsproject/public_html/students/view_product.php on line 106
+[18-Apr-2018 01:40:09 UTC] PHP Notice:  Undefined variable: p_cost in /home/cmsproject/public_html/students/view_product.php on line 112
+[18-Apr-2018 01:40:09 UTC] PHP Notice:  Undefined variable: p_cat in /home/cmsproject/public_html/students/view_product.php on line 118
+[18-Apr-2018 01:40:09 UTC] PHP Notice:  Undefined variable: p_sem in /home/cmsproject/public_html/students/view_product.php on line 124
+[18-Apr-2018 01:40:09 UTC] PHP Notice:  Undefined variable: p_des in /home/cmsproject/public_html/students/view_product.php on line 136
+[18-Apr-2018 01:40:09 UTC] PHP Notice:  Undefined variable: p_sdesc in /home/cmsproject/public_html/students/view_product.php on line 140
+[19-Apr-2018 02:56:26 UTC] PHP Notice:  Undefined variable: B_R_A_N_C_H in /home/cmsproject/public_html/students/product_online.php on line 9
+[19-Apr-2018 02:56:26 UTC] PHP Notice:  Undefined variable: B_R_A_N_C_H in /home/cmsproject/public_html/students/product_online.php on line 19
+[19-Apr-2018 03:10:10 UTC] PHP Warning:  Illegal string offset 'first_name' in /home/cmsproject/public_html/students/product_edit.php on line 102
+[19-Apr-2018 03:10:10 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/cmsproject/public_html/students/product_edit.php on line 102
+[19-Apr-2018 03:10:10 UTC] PHP Warning:  Illegal string offset 'first_name' in /home/cmsproject/public_html/students/product_edit.php on line 119
+[19-Apr-2018 03:10:10 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/cmsproject/public_html/students/product_edit.php on line 119
+[19-Apr-2018 03:13:19 UTC] PHP Notice:  Undefined variable: p_name in /home/cmsproject/public_html/students/view_product.php on line 78
+[19-Apr-2018 03:13:19 UTC] PHP Notice:  Undefined variable: se_name in /home/cmsproject/public_html/students/view_product.php on line 80
+[19-Apr-2018 03:13:19 UTC] PHP Notice:  Undefined variable: p_name in /home/cmsproject/public_html/students/view_product.php on line 100
+[19-Apr-2018 03:13:19 UTC] PHP Notice:  Undefined variable: rg in /home/cmsproject/public_html/students/view_product.php on line 106
+[19-Apr-2018 03:13:19 UTC] PHP Notice:  Undefined variable: p_cost in /home/cmsproject/public_html/students/view_product.php on line 112
+[19-Apr-2018 03:13:19 UTC] PHP Notice:  Undefined variable: p_cat in /home/cmsproject/public_html/students/view_product.php on line 118
+[19-Apr-2018 03:13:19 UTC] PHP Notice:  Undefined variable: p_sem in /home/cmsproject/public_html/students/view_product.php on line 124
+[19-Apr-2018 03:13:19 UTC] PHP Notice:  Undefined variable: p_des in /home/cmsproject/public_html/students/view_product.php on line 136
+[19-Apr-2018 03:13:19 UTC] PHP Notice:  Undefined variable: p_sdesc in /home/cmsproject/public_html/students/view_product.php on line 140
+[19-Apr-2018 03:53:47 UTC] PHP Notice:  Undefined variable: t_m in /home/cmsproject/public_html/students/faq.php on line 24
+[19-Apr-2018 03:53:47 UTC] PHP Warning:  Illegal string offset 'first_name' in /home/cmsproject/public_html/students/faq.php on line 268
+[19-Apr-2018 03:53:47 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/cmsproject/public_html/students/faq.php on line 268
+[19-Apr-2018 03:53:47 UTC] PHP Warning:  Illegal string offset 'last_name' in /home/cmsproject/public_html/students/faq.php on line 275
+[19-Apr-2018 03:53:47 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/cmsproject/public_html/students/faq.php on line 275
+[19-Apr-2018 03:53:47 UTC] PHP Warning:  Illegal string offset 'email' in /home/cmsproject/public_html/students/faq.php on line 282
+[19-Apr-2018 03:53:47 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/cmsproject/public_html/students/faq.php on line 282
+[19-Apr-2018 03:59:22 UTC] PHP Warning:  Illegal string offset 'first_name' in /home/cmsproject/public_html/students/blog_new.php on line 17
+[19-Apr-2018 03:59:22 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/cmsproject/public_html/students/blog_new.php on line 17
+[19-Apr-2018 03:59:22 UTC] PHP Notice:  Undefined variable: b in /home/cmsproject/public_html/students/blog_new.php on line 91
+[19-Apr-2018 03:59:22 UTC] PHP Notice:  Undefined variable: b in /home/cmsproject/public_html/students/blog_new.php on line 92
